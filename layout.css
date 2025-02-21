@@ -1,0 +1,55 @@
+.header{
+    background-color: aqua;
+    width: auto;
+    height: 80px;
+}
+
+.container{
+    position: relative;
+
+}
+
+.sidebar{
+    background-color: blueviolet;
+    width: 34%;
+    height: 300px;
+    
+}
+
+.articles{
+    background-color: yellow;
+    width: 65%;
+    height: 300px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.caja1{
+    background-color: antiquewhite;
+    height: 45%;
+    width: 95%;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    
+}
+
+.caja2{
+    background-color: antiquewhite;
+    height: 45%;
+    width: 95%;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+.container2{
+    background-color: green;
+    height: 100px;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    height: 80px;
+}
